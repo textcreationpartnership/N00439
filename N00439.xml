@@ -118,8 +118,9 @@
    <text xml:lang="eng">
       <body>
          <div type="laws">
-            <pb facs="tcp:000554_0000_0FA70F35F9805E10"/>
-            <pb facs="tcp:000554_0001_0FA70F36B445F158" rendition="simple:additions"/>
+            <pb facs="unknown:000554_0000_0FA70F35F9805E10"/>
+            <pb facs="unknown:000554_0001_0FA70F36B445F158"
+                rendition="simple:additions"/>
             <head>
                <figure/> AT A GENERAL COURT For Their MAJESTIES Colony of the Massachusetts BAY in NEW-ENGLAND, Sitting at BOSTON upon Adjournment,
 <date>
@@ -195,7 +196,7 @@
                      <item>For every <hi>Ship</hi> or <hi>Deck Vessell</hi> coming in, the sum of six Pence <hi>Per</hi> Ton.</item>
                   </list>
                   <list>
-                     <pb facs="tcp:000554_0002_0FA70F3795D9DF40"/>
+                     <pb facs="unknown:000554_0002_0FA70F3795D9DF40"/>
                      <head>On Goods and Commodities going out of this Colony.</head>
                      <item>
                         <hi>Outward.</hi> For every Hundred Quintals of Merchantable <hi>Fish,</hi> the sum of six Shillings &amp; eight Pence</item>
